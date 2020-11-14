@@ -1,0 +1,12 @@
+package com.ol.entities;
+
+public enum StatutHeure {
+	
+	DISPONIBLE, 
+	INDISPONIBLE,
+	COURS,
+	CONSULTATION,
+	DISPONIBLE_COURS,
+	DISPONIBLE_CONSULTATION
+
+}
